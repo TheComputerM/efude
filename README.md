@@ -1,3 +1,3 @@
 # Efude
 
-Made the repository
+An image based programming language
